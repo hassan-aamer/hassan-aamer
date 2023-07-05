@@ -28,19 +28,6 @@
 
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=dark&locale=en" alt="hassan-aamer" style="width: 100%" /></p>
 
-<div style="display: flex; justify-content: center;">
-  <p style="margin: auto;">
-    <a href="#" onclick="return false;">
-      <img src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&locale=en" alt="hassan-aamer" style="width: 100%" />
-    </a>
-  </p>
-</div>
-
-<div style="display: flex; justify-content: center;">
-  <p style="margin: auto;">
-    <a href="#" onclick="return false;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&" alt="hassan-aamer" style="width: 100%" />
-    </a>
-  </p>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=dark" alt="hassan-aamer" style="width: 100%" /></p>
