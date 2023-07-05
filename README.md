@@ -27,13 +27,7 @@
 </a>  </p>
 
 
-<div style="display: flex; justify-content: center;">
-  <p style="margin: auto;">
-    <a href="#" onclick="return false;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&locale=en&layout=compact" alt="hassan-aamer" />
-    </a>
-  </p>
-</div>
+
 
 <div style="display: flex; justify-content: center;">
   <p style="margin: auto;">
