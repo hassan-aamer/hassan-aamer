@@ -28,6 +28,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=dark&locale=en" alt="hassan-aamer" style="width: 100%" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=dark" alt="hassan-aamer" style="width: 100%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=tokyonight&locale=en" alt="hassan-aamer" style="width: 100%" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=highcontrast" alt="hassan-aamer" style="width: 100%" /></p>
