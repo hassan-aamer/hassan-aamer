@@ -43,5 +43,5 @@
 
 
 <p style="text-align: center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="hassan-aamer" style="width: 100vw; height: auto;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: 100%; object-fit: cover;" />
 </p>
