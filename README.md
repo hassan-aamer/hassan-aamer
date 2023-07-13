@@ -18,7 +18,7 @@
 <br>
 <hr>
 
-📫 How to reach me **hassanaamer048@gmail.com**
+📫 How to reach me <br> **hassanaamer048@gmail.com**
 
 <hr>
 
