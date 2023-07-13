@@ -41,7 +41,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=highcontrast" alt="hassan-aamer" style="width: 100%" /></p>
 
 
-
 <p style="text-align: center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: 100%; object-fit: cover;" />
+  <span style="display: inline-block; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: auto;" />
+  </span>
 </p>
+
