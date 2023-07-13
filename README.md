@@ -6,7 +6,7 @@
 
 
 
-<hr>
+
 <br>
 
 <div align="center">
