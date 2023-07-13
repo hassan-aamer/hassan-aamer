@@ -8,7 +8,7 @@
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/hassan-aamer/image_readme/549bef06d977af3c32c6ec8e35af90412dd6f52a/web.gif?token=A7F46VDNWQ5CFDSD3WE6TB3EV7MQ4" alt="web">
+    <img src="https://github.com/hassan-aamer/image_readme/raw/main/web.gif" alt="web">
 </div>
 
 
