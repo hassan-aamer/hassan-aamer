@@ -6,7 +6,8 @@
 
 
 
-
+<hr>
+<br>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="web" style="max-width: 100%;">
@@ -14,8 +15,12 @@
 
 
 
+<br>
+<hr>
 
 - 📫 How to reach me **hassanaamer048@gmail.com**
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +31,8 @@
 <a href="https://www.facebook.com/profile.php?id=100009255534754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009255534754&mibextid=zbwkwl" height="30" width="40" /></a>
 </a>  
 </p>
+
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://jquery.com" target="_blank" rel="noreferrer">
@@ -42,7 +49,7 @@
  
  </p>
 
-
+<hr>
 
 <p style="text-align: center;">
   <span style="display: inline-block; width: 100%;">
@@ -52,7 +59,11 @@
   </span>
 </p>
 
+<hr>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=tokyonight&locale=en" alt="hassan-aamer" style="width: 100%" /></p>
+
+<hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=highcontrast" alt="hassan-aamer" style="width: 100%" /></p>
 
