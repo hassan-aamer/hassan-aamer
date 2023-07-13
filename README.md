@@ -8,8 +8,9 @@
 
 
 <div align="center">
-    <img src="https://github.com/hassan-aamer/image_readme/raw/main/web.gif" alt="web">
+    <img src="https://github.com/hassan-aamer/image_readme/raw/main/web.gif" alt="web" class="img-fluid">
 </div>
+
 
 
 
