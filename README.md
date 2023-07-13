@@ -6,15 +6,9 @@
 
 
 
-
 <div align="center">
-    <img src="https://raw.githubusercontent.com/hassan-aamer/image_readme/main/web.gif?token=GHSAT0AAAAAACEX7TYHSGAGTB4DZSMQLDG6ZFP5BLA" alt="web" style="max-width: 100%;">
+    <img src="https://github.com/hassan-aamer/image_readme/blob/main/web.gif?raw=true" alt="web" style="max-width: 100%;">
 </div>
-
-
-
-
-
 
 
 
