@@ -26,9 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/hassanaamer048" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hassanaamer048" height="30" width="40" />
-</a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/hassan.m.aamer/?next=%2F" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/hassan.m.aamer?igshid=zdc4odbmnjlmnq==" height="30" width="40" />
