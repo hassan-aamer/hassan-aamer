@@ -87,20 +87,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
 </a>
 &nbsp;
-<a href="https://wordpress.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" />
-</a>
-&nbsp;
-<a href="https://moodle.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original.svg" alt="Moodle" width="40" height="40" />
-</a>
-&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 </a>
 &nbsp;
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40" />
+</a>
+&nbsp;
+<a href="https://wordpress.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" />
+</a>
+&nbsp;
+<a href="https://moodle.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original.svg" alt="Moodle" width="40" height="40" />
 </a>
 
 
