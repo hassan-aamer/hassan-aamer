@@ -1,5 +1,5 @@
 <h1 align="center"> <p>Hi 👋, I'm Hassan ツ </p></h1>
-<h3 align="center"> <p> (  Full Stack Web Developer  ) </p></h3>
+<h3 align="center"> <p>   Full Stack Web Developer   </p></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hassan-aamer&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-aamer" /> </p>
 
@@ -73,6 +73,16 @@
 &nbsp;
 <a href="https://jquery.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40" />
+</a>
+&nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"
+ width="40" height="40" />
+</a>
+&nbsp;
+<a href="https://angular.io/" target="_blank" rel="noreferrer">
+ <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"
+width="40" height="40" />
 </a>
 &nbsp;
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
