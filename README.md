@@ -60,74 +60,79 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" 
 height="50" />
 <a/>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://jquery.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"
  width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"
 width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://wordpress.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://moodle.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original.svg" alt="Moodle" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="postman://open?url=https://www.getpostman.com/collections/your_collection_id" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/8083855/44999455-72444280-afce-11e8-9f22-fdd7259c637b.png" alt="Postman" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
+</a>
+&nbsp;
 <a href="" target="_blank" rel="noreferrer">
   <img src="https://camo.githubusercontent.com/2d22e8aec2caef30ca173de904a7d7addc20377416240e8de0177bd5b1c1920f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f78616d70702e706e67" alt="" width="50" height="50" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
+
 
 
 
