@@ -120,6 +120,18 @@ width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original.svg" alt="Moodle" width="40" height="40" />
 </a>
 &nbsp;
+<a href="postman://open?url=https://www.getpostman.com/collections/your_collection_id" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/8083855/44999455-72444280-afce-11e8-9f22-fdd7259c637b.png" alt="Postman" width="40" height="40" />
+</a>
+&nbsp;
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://camo.githubusercontent.com/2d22e8aec2caef30ca173de904a7d7addc20377416240e8de0177bd5b1c1920f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f78616d70702e706e67" alt="" width="40" height="40" />
+</a>
+&nbsp;
+
+
+
+    
 </p>
 
 <hr>
