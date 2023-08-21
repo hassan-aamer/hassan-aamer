@@ -75,7 +75,7 @@ height="50" />
 </a>
 &nbsp;
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50" />
 </a>
 &nbsp;
 <a href="https://jquery.com" target="_blank" rel="noreferrer">
