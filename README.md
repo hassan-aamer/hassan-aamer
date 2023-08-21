@@ -120,17 +120,6 @@ width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original.svg" alt="Moodle" width="40" height="40" />
 </a>
 &nbsp;
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40" />
-</a>
-
-
-
-
-
-
-
-
 </p>
 
 <hr>
