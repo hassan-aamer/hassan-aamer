@@ -24,7 +24,7 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">&nbsp;🤝 Connect with me:</h3>
 <p align="left">
 
 
@@ -53,7 +53,7 @@
 
 <hr>
 
-<h3 align="left"> 👨‍💻 Languages and Tools:</h3>
+<h3 align="left">&nbsp;👨‍💻 Languages and Tools:</h3>
 <p align="left">
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
