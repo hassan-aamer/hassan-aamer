@@ -22,7 +22,6 @@
 &nbsp; 📫 How to reach me <br> 
 &nbsp;&nbsp; <a href="mailto:hassanaamer048@gmail.com">  hassanaamer048@gmail.com</a>
 
-
 <hr>
 
 <h3 align="left">Connect with me:</h3>
@@ -54,7 +53,7 @@
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 👨‍💻 Languages and Tools:</h3>
 <p align="left">
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -87,10 +86,8 @@ height="50" />
  width="50" height="50" />
 </a>
 &nbsp;
-<a href="https://angular.io/" target="_blank" rel="noreferrer">
- <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"
-width="50" height="50" />
-</a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/> </a>
 &nbsp;
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" />
@@ -132,10 +129,14 @@ width="50" height="50" />
   <img src="https://camo.githubusercontent.com/2d22e8aec2caef30ca173de904a7d7addc20377416240e8de0177bd5b1c1920f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f78616d70702e706e67" alt="" width="50" height="50" />
 </a>
 &nbsp;
-
-
-
-
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
+&nbsp;
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
+&nbsp;
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" 
+alt="xd" width="50" height="50"/> </a>
+&nbsp;
     
 </p>
 
@@ -144,18 +145,18 @@ width="50" height="50" />
 <p style="text-align: center;">
   <span style="display: inline-block; width: 100%;">
     <center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: auto;" />
     </center>
   </span>
 </p>
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=tokyonight&locale=en" alt="hassan-aamer" style="width: 100%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="hassan-aamer" style="width: 100%" /></p>
 
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=highcontrast" alt="hassan-aamer" style="width: 100%" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=tokyonight&hide_border=true&locale" alt="hassan-aamer" style="width: 100%" /></p>
 &nbsp;&nbsp;
 
 
