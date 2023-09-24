@@ -145,18 +145,18 @@ alt="xd" width="50" height="50"/> </a>
 <p style="text-align: center;">
   <span style="display: inline-block; width: 100%;">
     <center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&theme=tokyonight&border=true&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: auto;" />
     </center>
   </span>
 </p>
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="hassan-aamer" style="width: 100%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=tokyonight&border=true&locale=en" alt="hassan-aamer" style="width: 100%" /></p>
 
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=tokyonight&hide_border=true&locale" alt="hassan-aamer" style="width: 100%" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=tokyonight&border=true&locale" alt="hassan-aamer" style="width: 100%" /></p>
 &nbsp;&nbsp;
 
 
