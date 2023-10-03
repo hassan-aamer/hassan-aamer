@@ -93,10 +93,6 @@ height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" />
 </a>
 &nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
-</a>
-&nbsp;
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50" />
 </a>
@@ -106,7 +102,10 @@ height="50" />
 </a>   
 &nbsp;
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.djangoproject.com/s/img/logos/django-logo-negative.png" alt="Django" width="50" height="50" style="background: transparent;" />
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
+&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
 </a>
 &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
