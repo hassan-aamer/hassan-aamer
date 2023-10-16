@@ -47,7 +47,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://hassan-aamer.github.io/My_Portfolio" target="_blank">
-    <img src="https://github.com/hassan-aamer/My_Portfolio/blob/master/images/logo.png?raw=true" alt="وصف الصورة" height="40" width="40" />
+    <img src="https://github.com/hassan-aamer/My_Portfolio/blob/master/images/logo.png?raw=true" alt="My Portfolio" height="40" width="40" />
 </a>
 
 
