@@ -26,6 +26,7 @@
 <hr>
 
 <h3 align="left">&nbsp;🤝 Connect with me:</h3>
+<br>
 <p align="left">
 
 
@@ -60,6 +61,7 @@
 <hr>
 
 <h3 align="left">&nbsp;👨‍💻 Languages and Tools:</h3>
+<br>
 <p align="left">
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -155,6 +157,7 @@ alt="xd" width="50" height="50"/> </a>
 
 <hr>
 <h3 align="left">&nbsp;📊 Github Stats:</h3>
+<br>
  
 <p style="text-align: center;">
   <span style="display: inline-block; width: 100%;">
