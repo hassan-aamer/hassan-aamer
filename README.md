@@ -11,7 +11,8 @@
 <br>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="web" style="max-width: 100%;">
+<!--     <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="web" style="max-width: 100%;"> -->
+    <img src="https://github.com/hassan-aamer/My_Portfolio/blob/master/images/web.gif?raw=true" alt="web" style="max-width: 100%;">
 </div>
 
 
