@@ -30,20 +30,25 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/hassan.m.aamer/?next=%2F" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/hassan.m.aamer?igshid=zdc4odbmnjlmnq==" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/hassan.m.aamer?igshid=zdc4odbmnjlmnq==" height="40" width="40" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/%E2%80%AAhassan-mohamed%E2%80%AC%E2%80%8F-537423264/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e2%80%aahassan-mohamed%e2%80%ac%e2%80%8f-537423264/" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e2%80%aahassan-mohamed%e2%80%ac%e2%80%8f-537423264/" height="40" width="40" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/201129730475" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40" width="40" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100009255534754" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009255534754&mibextid=zbwkwl" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009255534754&mibextid=zbwkwl" height="40" width="40" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://hassan-aamer.github.io/My_Portfolio" target="_blank">
+    <img src="https://github.com/hassan-aamer/My_Portfolio/blob/master/images/logo.png?raw=true" alt="وصف الصورة" height="40" width="40" />
+</a>
+
 
 
 
