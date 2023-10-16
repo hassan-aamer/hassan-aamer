@@ -21,6 +21,7 @@
 <hr>
 
 &nbsp; 📫 How to reach me <br> 
+<br>
 &nbsp;&nbsp; <a href="mailto:hassanaamer048@gmail.com">  hassanaamer048@gmail.com</a>
 
 <hr>
