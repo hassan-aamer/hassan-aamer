@@ -154,7 +154,8 @@ alt="xd" width="50" height="50"/> </a>
 </p>
 
 <hr>
-
+<h3 align="left">&nbsp;📊 Github Stats:</h3>
+ 
 <p style="text-align: center;">
   <span style="display: inline-block; width: 100%;">
     <center>
