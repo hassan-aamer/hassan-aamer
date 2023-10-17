@@ -20,7 +20,8 @@
 <br>
 <hr>
 
-&nbsp; 📫 How to reach me <br> 
+
+<h3 align="left">&nbsp;📫 How to reach me:</h3>
 <br>
 &nbsp;&nbsp; <a href="mailto:hassanaamer048@gmail.com">  hassanaamer048@gmail.com</a>
 
