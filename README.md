@@ -1,5 +1,5 @@
 <h1 align="center"> <p> Hi 👋, I'm Hassan ツ </p></h1>
-<h2 align="center"> <p>   Back End Developer   </p></h2>
+<h2 align="center"> <p>Full Stack Web Developer</p></h2>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hassan-aamer&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-aamer" /> </p>
@@ -106,13 +106,13 @@ height="50" />
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50" />
 </a>
-&nbsp;
+<!-- &nbsp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
 </a>   
 &nbsp;
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/> -->
 &nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
@@ -130,10 +130,10 @@ height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="50" height="50" />
 </a>
 &nbsp;
-<a href="https://moodle.org/" target="_blank" rel="noreferrer">
+<!-- <a href="https://moodle.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original.svg" alt="Moodle" width="50" height="50" />
 </a>
-&nbsp;
+&nbsp; -->
 <a href="postman://open?url=https://www.getpostman.com/collections/your_collection_id" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/8083855/44999455-72444280-afce-11e8-9f22-fdd7259c637b.png" alt="Postman" width="50" height="50" />
 </a>
