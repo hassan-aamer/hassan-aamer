@@ -126,10 +126,6 @@ height="50" />
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50" height="50" />
 </a>
 &nbsp;
-<a href="https://wordpress.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="50" height="50" />
-</a>
-&nbsp;
 <!-- <a href="https://moodle.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original.svg" alt="Moodle" width="50" height="50" />
 </a>
@@ -153,6 +149,10 @@ height="50" />
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" 
 alt="xd" width="50" height="50"/> </a>
+&nbsp;
+<a href="https://wordpress.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="50" height="50" />
+</a>
 &nbsp;
     
 </p>
