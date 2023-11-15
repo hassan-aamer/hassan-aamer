@@ -146,8 +146,8 @@ height="50" />
   <img src="https://camo.githubusercontent.com/2d22e8aec2caef30ca173de904a7d7addc20377416240e8de0177bd5b1c1920f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f78616d70702e706e67" alt="" width="50" height="50" />
 </a>
 &nbsp;
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
-&nbsp;
+<!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
+&nbsp; -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
 &nbsp;
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
