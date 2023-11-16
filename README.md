@@ -31,7 +31,7 @@
 
 
 
-## <picture><img src = "https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/about_me.gif?alt=media&token=6461e44b-6d0a-442a-98c7-64f204d965e4" width = 50px></picture> Programming languages and Tools :
+## <picture><img src = "https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/about_me.gif?alt=media&token=6461e44b-6d0a-442a-98c7-64f204d965e4" width = 50px></picture> languages and Tools :
 <p align="center">
     <br>
   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" />
