@@ -31,7 +31,8 @@
 <br>
 <hr>
 <h3 align="left">&nbsp;Languages and Tools:</h3>
-
+<p>
+,حش
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />&nbsp;
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />&nbsp;
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />&nbsp;
@@ -52,7 +53,7 @@
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" 
   alt="xd" width="40" height="40"/> &nbsp;
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" />&nbsp;
-
+</p>
 
 
 
