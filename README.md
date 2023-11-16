@@ -78,7 +78,13 @@
 
 ## 📊 Github Stats:
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=tokyonight&border=true&locale=en" alt="hassan-aamer" style="width: 100%" /></p>
+<p style="text-align: center;">
+  <span style="display: inline-block; width: 100%;">
+    <center>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&theme=tokyonight&border=true&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: auto;" />
+    </center>
+  </span>
+</p>
 
 
 
