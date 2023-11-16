@@ -60,22 +60,10 @@
 <h3 align="center">&nbsp;📊 Github Stats:</h3>
 <br>
  
-<p style="text-align: center;">
-  <span style="display: inline-block; width: 100%;">
-    <center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&theme=tokyonight&border=true&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: auto;" />
-    </center>
-  </span>
-</p>
-
-<hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=tokyonight&border=true&locale=en" alt="hassan-aamer" style="width: 100%" /></p>
 
-<hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=tokyonight&border=true&locale" alt="hassan-aamer" style="width: 100%" /></p>
-&nbsp;&nbsp;
 
 
 
