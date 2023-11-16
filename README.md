@@ -31,6 +31,7 @@
 <br>
 <hr>
 <h3 align="Center">&nbsp;Languages and Tools:</h3>
+<br>
 <div align="center">
   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" />&nbsp;
   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" />&nbsp;
@@ -53,9 +54,28 @@
   alt="xd" width="35" height="35"/>&nbsp;
   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="35" height="35" />&nbsp;
 </div>
+<br>
 
+<hr>
+<h3 align="center">&nbsp;📊 Github Stats:</h3>
+<br>
+ 
+<p style="text-align: center;">
+  <span style="display: inline-block; width: 100%;">
+    <center>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&theme=tokyonight&border=true&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: auto;" />
+    </center>
+  </span>
+</p>
 
+<hr>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=tokyonight&border=true&locale=en" alt="hassan-aamer" style="width: 100%" /></p>
+
+<hr>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=tokyonight&border=true&locale" alt="hassan-aamer" style="width: 100%" /></p>
+&nbsp;&nbsp;
 
 
 
