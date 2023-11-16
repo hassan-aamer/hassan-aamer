@@ -29,7 +29,7 @@
 </p>
 
 <br>
-<hr>
+<!-- <hr>
 <h3 align="Center">&nbsp;Languages and Tools:</h3>
 <div align="center">
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" />
@@ -53,7 +53,7 @@
   alt="xd" width="35" height="35"/>
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="35" height="35" />
 </div>
-
+ -->
 
 
 
