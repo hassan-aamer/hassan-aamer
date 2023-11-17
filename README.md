@@ -1,14 +1,14 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
-<!-- <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/> -->
+<img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <h1 align="center"> <p> Hi, I'm Hassan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hassan-aamer&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-aamer" /> </p>
 <br>
 
-<p align="center">
+<!-- <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=100&lines=Full-Stack+Web+Development;PHP+Laravel" alt="Typing SVG" /></a>
-</p>
+</p> -->
 
 <div align="center">
     <img src="https://github.com/hassan-aamer/My_Portfolio/blob/master/images/web.gif?raw=true" alt="web" style="max-width: 100%;">
