@@ -53,7 +53,7 @@
     &nbsp;
   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35" height="35" />
     &nbsp;
-  <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="35" height="35" />
+  <img align="Center" src="https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/1200px-Laravel.svg.png?alt=media&token=84f98e2d-577d-496d-a8c3-f09e29f72e8e" alt="laravel" width="35" height="35" />
     &nbsp;
   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35" />
     &nbsp;
