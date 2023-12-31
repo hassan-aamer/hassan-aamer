@@ -67,7 +67,7 @@
     &nbsp;
   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35" />
     &nbsp;
-  <img align="Center" src="https://camo.githubusercontent.com/2d22e8aec2caef30ca173de904a7d7addc20377416240e8de0177bd5b1c1920f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f78616d70702e706e67" alt="" 
+  <img align="Center" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="" 
   width="35" height="35" />
     &nbsp;
   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
