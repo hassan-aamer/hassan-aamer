@@ -51,8 +51,8 @@
     &nbsp;
   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35"/>
     &nbsp;
-  <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="35" height="35"/>
-    &nbsp;
+<!--   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="35" height="35"/>
+    &nbsp; -->
   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35" height="35" />
     &nbsp;
   <img align="Center" src="https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/1200px-Laravel.svg.png?alt=media&token=84f98e2d-577d-496d-a8c3-f09e29f72e8e" alt="laravel" width="35" height="35" />
@@ -72,9 +72,9 @@
     &nbsp;
   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
     &nbsp;
-  <img align="Center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" 
+<!--   <img align="Center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" 
   alt="xd" width="35" height="35"/>
-    &nbsp;
+    &nbsp; -->
   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="35" height="35" />
     &nbsp;
 </p>
