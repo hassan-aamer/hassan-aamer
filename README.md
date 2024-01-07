@@ -88,7 +88,17 @@
 <p style="text-align: center;">
   <span style="display: inline-block; width: 100%;">
     <center>
-      <img align="right" width=390 src="https://streak-stats.demolab.com/?user=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="" style="width: 100%; height: auto;" /> 
+      <img align="right" width=390 src="https://streak-stats.demolab.com/?user=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: auto;" /> 
+    </center>
+  </span>
+</p>
+
+<br>&nbsp;
+
+<p style="text-align: center;">
+  <span style="display: inline-block; width: 100%;">
+    <center>
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: auto;" /> 
     </center>
   </span>
 </p>
@@ -104,13 +114,6 @@
 </p>
 
 <br>
-
-
-
-
-
-
-
 
 
 <img width=100% title="Hornet-Developer" alt="Hassan"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
