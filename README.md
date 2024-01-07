@@ -88,6 +88,16 @@
 <p style="text-align: center;">
   <span style="display: inline-block; width: 100%;">
     <center>
+      <img align="right" width=390 src="https://streak-stats.demolab.com/?user=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="" style="width: 100%; height: auto;" /> 
+    </center>
+  </span>
+</p>
+
+<br>&nbsp;
+
+<p style="text-align: center;">
+  <span style="display: inline-block; width: 100%;">
+    <center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: auto;" />
     </center>
   </span>
@@ -95,15 +105,9 @@
 
 <br>
 
-<p style="text-align: center;">
-  <span style="display: inline-block; width: 100%;">
-    <center>
-      <img align="right" width=390 src="https://streak-stats.demolab.com/?user=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="" style="width: 100%; height: auto;" /> 
-    </center>
-  </span>
-</p>
 
-<br>
+
+
 
 
 
