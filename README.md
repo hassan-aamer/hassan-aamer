@@ -86,8 +86,8 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,jquery,react,php,laravel,mysql" />
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,nodejs,wordpress,xd" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,nodejs,wordpress,xd" />
   </a>
 </div>
 <br>
