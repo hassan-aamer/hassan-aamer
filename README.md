@@ -39,47 +39,56 @@
 ## <picture><img src = "https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/about_me.gif?alt=media&token=6461e44b-6d0a-442a-98c7-64f204d965e4" width = 50px></picture> languages and Tools :
 <p align="center">
     <br>
-  <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" />
-    &nbsp;
-  <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" />
-    &nbsp;
- <img align="Center" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-    &nbsp;
-  <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />
-    &nbsp;
-  <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="35" height="35" />
-    &nbsp;
-  <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="35" height="35" />
-    &nbsp;
-  <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35"/>
-    &nbsp;
+<!--   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" />
+    &nbsp; -->
+<!--   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" />
+    &nbsp; -->
+<!--  <img align="Center" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+    &nbsp; -->
+<!--   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />
+    &nbsp; -->
+<!--   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="35" height="35" />
+    &nbsp; -->
+<!--   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="35" height="35" />
+    &nbsp; -->
+<!--   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35"/>
+    &nbsp; -->
 <!--   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="35" height="35"/>
     &nbsp; -->
-  <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35" height="35" />
-    &nbsp;
-  <img align="Center" src="https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/1200px-Laravel.svg.png?alt=media&token=84f98e2d-577d-496d-a8c3-f09e29f72e8e" alt="laravel" width="35" height="35" />
-    &nbsp;
-  <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35" />
-    &nbsp;
-  <img align="Center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35" />
-    &nbsp;
-  <img align="Center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="35" height="35" />
-    &nbsp;
-  <img align="Center" src="https://user-images.githubusercontent.com/8083855/44999455-72444280-afce-11e8-9f22-fdd7259c637b.png" alt="Postman" width="35" height="35" />
-    &nbsp;
-  <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35" />
-    &nbsp;
-  <img align="Center" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="" 
+<!--   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35" height="35" />
+    &nbsp; -->
+<!--   <img align="Center" src="https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/1200px-Laravel.svg.png?alt=media&token=84f98e2d-577d-496d-a8c3-f09e29f72e8e" alt="laravel" width="35" height="35" />
+    &nbsp; -->
+<!--   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35" />
+    &nbsp; -->
+<!--   <img align="Center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35" />
+    &nbsp; -->
+<!--   <img align="Center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="35" height="35" />
+    &nbsp; -->
+<!--   <img align="Center" src="https://user-images.githubusercontent.com/8083855/44999455-72444280-afce-11e8-9f22-fdd7259c637b.png" alt="Postman" width="35" height="35" />
+    &nbsp; -->
+<!--   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35" />
+    &nbsp; -->
+<!--   <img align="Center" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="" 
   width="35" height="35" />
-    &nbsp;
-  <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
-    &nbsp;
+    &nbsp; -->
+<!--   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
+    &nbsp; -->
 <!--   <img align="Center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" 
   alt="xd" width="35" height="35"/>
     &nbsp; -->
-  <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="35" height="35" />
-    &nbsp;
+<!--   <img align="Center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="35" height="35" />
+    &nbsp; -->
 </p>
+
+
+
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,jquery,react,php,laravel,mysql,git,github,postman,vscode,nodejs,wordpress,xd" />
+  </a>
+</div>
 <br>
 
 
