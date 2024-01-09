@@ -22,15 +22,15 @@
 ## <picture> <img src="https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/Connect-with-me.gif?alt=media&token=970c137c-ed55-4339-b288-d09f4d3f5b8a" width="100px"> </picture> Contact with me
 <p align="center">
 <br>
- <a href="mailto:hassanaamer048@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="25"/></a>
+ <a href="mailto:hassanaamer048@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="30"/></a>
     &nbsp;
-<a href="https://www.facebook.com/profile.php?id=100009255534754"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" height="25"/></a>
+<a href="https://www.facebook.com/profile.php?id=100009255534754"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" height="30"/></a>
     &nbsp;
-<a href="https://www.linkedin.com/in/%E2%80%AAhassan-mohamed%E2%80%AC%E2%80%8F-537423264/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/></a>
+<a href="https://www.linkedin.com/in/%E2%80%AAhassan-mohamed%E2%80%AC%E2%80%8F-537423264/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>
     &nbsp;
- <a href="https://www.instagram.com/hassan.m.aamer/?next=%2F"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" height="25"/></a>
+ <a href="https://www.instagram.com/hassan.m.aamer/?next=%2F"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" height="30"/></a>
     &nbsp;
-    <a href="https://wa.me/0201129730475"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" height="25"/></a>
+    <a href="https://wa.me/0201129730475"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" height="30"/></a>
     &emsp;
 </p>
 
