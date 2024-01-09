@@ -85,9 +85,25 @@
 
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,php,laravel" />
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,nodejs,wordpress,xd" />
+  <a >
+<!--     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,php,laravel" /> -->
+<!--    <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,nodejs,wordpress,xd" /> -->
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=jquery" />
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=php" />
+    <img src="https://skillicons.dev/icons?i=laravel" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=postman" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=wordpress" />
+    <img src="https://skillicons.dev/icons?i=xd" />
   </a>
 </div>
 <br>
