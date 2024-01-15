@@ -2,7 +2,7 @@
 <img width=100% title="Hornet-Developer" alt="Hassan" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Back-End-PHP-LARAVEL&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>    
 
  <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg">  
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=50&lines=Welcome!;I+am+Hassan;Back-End+Web+Development;PHP+Laravel" alt="Hassan" /></a>
 </p> 
 
