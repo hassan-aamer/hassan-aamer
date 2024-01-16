@@ -20,7 +20,7 @@
 
 ## <picture> <img src="https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/Connect-with-me.gif?alt=media&token=970c137c-ed55-4339-b288-d09f4d3f5b8a" width="100px"> </picture> Contact with me
 <p align="center">
-<br><br><br>
+<br><br>
  <a href="mailto:hassanaamer048@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="30"/></a>
     &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100009255534754"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" height="30"/></a>
@@ -36,7 +36,7 @@
 
 
 ## <picture><img src = "https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/about_me.gif?alt=media&token=6461e44b-6d0a-442a-98c7-64f204d965e4" width = 50px></picture> languages and Tools :
-<br><br><br>
+<br><br>
 <div align="center">
   <a >
     <img src="https://skillicons.dev/icons?i=html" />
