@@ -53,8 +53,8 @@
     <img src="https://skillicons.dev/icons?i=postman" />
     <img src="https://skillicons.dev/icons?i=vscode" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=docker" />
     <img src="https://skillicons.dev/icons?i=wordpress" />
-    <img src="https://skillicons.dev/icons?i=xd" />
   </a>
 </div>
 <br>
