@@ -18,7 +18,7 @@
 <br>
 
 
-## <picture> <img src="https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/Connect-with-me.gif?alt=media&token=970c137c-ed55-4339-b288-d09f4d3f5b8a" width="100px"> </picture> Contact with me
+## <picture> <img src="https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/Connect-with-me.gif?alt=media&token=970c137c-ed55-4339-b288-d09f4d3f5b8a" width="100px"> </picture> Contact With Me :
 <p align="center">
 <br><br>&nbsp;&nbsp;
  <a href="mailto:hassanaamer048@gmail.com"><img  src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="30"/></a>
@@ -61,9 +61,7 @@
 <br>&nbsp;
 
 
-<h3 align="left">&nbsp;📊 Github Stats:</h3>
-<hr>
-
+## <picture></picture> 📊 Github Stats :
 <br>
 <p style="text-align: center;">
   <span style="display: inline-block; width: 100%;">
