@@ -58,9 +58,24 @@
   </a>
 </div>
 <br>
-
 <br>&nbsp;
 
+
+<h3 align="left">&nbsp;📊 Github Stats:</h3>
+<hr>
+
+<br>
+<p style="text-align: center;">
+  <span style="display: inline-block; width: 100%;">
+    <center>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&theme=tokyonight&border=true&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: auto;" />
+    </center>
+  </span>
+</p>
+<hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=tokyonight&border=true&locale=en" alt="hassan-aamer" style="width: 100%" /></p>
+<hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=tokyonight&border=true&locale" alt="hassan-aamer" style="width: 100%" /></p>
 
 
 <img width=100% title="Hornet-Developer" alt="Hassan"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
