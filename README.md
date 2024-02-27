@@ -56,7 +56,7 @@ width="100px" height="30"/></a>
     <img src="https://skillicons.dev/icons?i=postman" />
     <img src="https://skillicons.dev/icons?i=vscode" />
     <img src="https://skillicons.dev/icons?i=docker" />
-    <img src="https://skillicons.dev/icons?i=wordpress" />
+<!--     <img src="https://skillicons.dev/icons?i=wordpress" /> -->
   </a>
 </div>
 <br>
