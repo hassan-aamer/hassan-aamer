@@ -5,7 +5,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg">  
 <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=50&lines=Welcome!;I+am+Hassan;Back-End+Web+Development;PHP+Laravel" alt="Hassan" /></a>
 </p> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hassan-aamer&label=Profile%20views&color=blueviolet=flat" alt="hassan-aamer" width="140px" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hassan-aamer&label=Profile%20views&color=blueviolet" alt="hassan-aamer"  /> </p>
 <br>
 
 
