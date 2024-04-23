@@ -44,7 +44,7 @@ width="100px" height="30"/></a>
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=bootstrap" />
     <img src="https://skillicons.dev/icons?i=jquery" />
-    <img src="https://skillicons.dev/icons?i=react" />
+<!--     <img src="https://skillicons.dev/icons?i=react" /> -->
     <img src="https://skillicons.dev/icons?i=php" />
     <img src="https://skillicons.dev/icons?i=laravel" />
     <img src="https://skillicons.dev/icons?i=mysql" />
