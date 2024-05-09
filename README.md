@@ -45,6 +45,7 @@ width="100px" height="30"/></a>
     <img src="https://skillicons.dev/icons?i=bootstrap" />
     <img src="https://skillicons.dev/icons?i=jquery" />
 <!--     <img src="https://skillicons.dev/icons?i=react" /> -->
+    <img src="https://skillicons.dev/icons?i=python" />
     <img src="https://skillicons.dev/icons?i=php" />
     <img src="https://skillicons.dev/icons?i=laravel" />
     <img src="https://skillicons.dev/icons?i=mysql" />
@@ -52,7 +53,7 @@ width="100px" height="30"/></a>
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=github" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
-    <img src="https://skillicons.dev/icons?i=express" />
+<!--     <img src="https://skillicons.dev/icons?i=express" /> -->
     <img src="https://skillicons.dev/icons?i=postman" />
     <img src="https://skillicons.dev/icons?i=linux" />
 <!--     <img src="https://skillicons.dev/icons?i=vscode" /> -->
