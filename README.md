@@ -60,7 +60,7 @@ width="100px" height="30"/></a>
     <img src="https://skillicons.dev/icons?i=vscode" />
     <img src="https://skillicons.dev/icons?i=ubuntu" />
     <img src="https://skillicons.dev/icons?i=phpstorm" />
-<!--     <img src="https://skillicons.dev/icons?i=docker" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=ai" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=wordpress" /> -->
   </a>
 </div>
