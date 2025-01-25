@@ -43,6 +43,7 @@
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=bootstrap" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
+    <img src="https://skillicons.dev/icons?i=vuejs" />
     <img src="https://skillicons.dev/icons?i=jquery" />
     <img src="https://skillicons.dev/icons?i=python" />
     <img src="https://skillicons.dev/icons?i=php" />
