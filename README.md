@@ -57,6 +57,7 @@
     <img src="https://skillicons.dev/icons?i=linux" />
     <img src="https://skillicons.dev/icons?i=vscode" />
     <img src="https://skillicons.dev/icons?i=ubuntu" />
+    <img src="https://skillicons.dev/icons?i=windows" />
     <img src="https://skillicons.dev/icons?i=phpstorm" />
     <img src="https://skillicons.dev/icons?i=bitbucket" />
     <img src="https://skillicons.dev/icons?i=firebase" />
