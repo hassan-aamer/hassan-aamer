@@ -20,15 +20,16 @@
 ## <picture> <img src="https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/Connect-with-me.gif?alt=media&token=970c137c-ed55-4339-b288-d09f4d3f5b8a" width="100px"> </picture> Contact With Me :
 <p align="center">
 <br><br>&nbsp;&nbsp;
- <a href="mailto:hassanaamer048@gmail.com">    <img src="https://skillicons.dev/icons?i=gmail" /></a>
+ <a href="mailto:hassanaamer048@gmail.com"><img  src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width="100px" height="30"/></a>
     &nbsp;
-<!-- <a href="https://www.facebook.com/profile.php?id=100009255534754"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" width="100px" height="30"/></a> -->
+<a href="https://www.facebook.com/profile.php?id=100009255534754"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" width="100px" height="30"/></a>
     &nbsp;
-<a href="https://www.linkedin.com/in/%E2%80%AAhassan-mohamed%E2%80%AC%E2%80%8F-537423264/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/%E2%80%AAhassan-mohamed%E2%80%AC%E2%80%8F-537423264/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px" height="30"/></a>
     &nbsp;
- <a href="https://www.instagram.com/hassan.m.aamer/?next=%2F"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
+ <a href="https://www.instagram.com/hassan.m.aamer/?next=%2F"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" 
+width="100px" height="30"/></a>
     &nbsp;
-<!--     <a href="https://wa.me/0201129730475"><img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" width="100px" height="30"/><img src="https://skillicons.dev/icons?i=whatsapp" /></a> -->
+    <a href="https://wa.me/0201129730475"><img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" width="100px" height="30"/><img src="https://skillicons.dev/icons?i=whatsapp" /></a>
     &emsp;
 </p>
 
