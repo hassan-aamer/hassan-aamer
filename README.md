@@ -47,6 +47,7 @@ width="100px" height="30"/></a>
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=jquery" />
     <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=java" />
     <img src="https://skillicons.dev/icons?i=php" />
     <img src="https://skillicons.dev/icons?i=laravel" />
     <img src="https://skillicons.dev/icons?i=mysql" />
@@ -64,6 +65,7 @@ width="100px" height="30"/></a>
     <img src="https://skillicons.dev/icons?i=bitbucket" />
     <img src="https://skillicons.dev/icons?i=firebase" />
     <img src="https://skillicons.dev/icons?i=powershell" />
+    <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </div>
 <br>
