@@ -67,11 +67,16 @@ width="100px" height="30"/></a> -->
     <img src="https://skillicons.dev/icons?i=windows" />
     <img src="https://skillicons.dev/icons?i=phpstorm" />
     <img src="https://skillicons.dev/icons?i=bitbucket" />
+    <img src="https://skillicons.dev/icons?i=gitlab" />
     <img src="https://skillicons.dev/icons?i=firebase" />
     <img src="https://skillicons.dev/icons?i=powershell" />
     <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
     <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=notion" />
+    <img src="https://skillicons.dev/icons?i=npm" />
+    <img src="https://skillicons.dev/icons?i=bots" />
+    <img src="https://skillicons.dev/icons?i=aiscript" />
   </a>
 </div>
 <br>
