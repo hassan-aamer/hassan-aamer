@@ -70,6 +70,8 @@ width="100px" height="30"/></a> -->
     <img src="https://skillicons.dev/icons?i=firebase" />
     <img src="https://skillicons.dev/icons?i=powershell" />
     <img src="https://skillicons.dev/icons?i=figma" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </div>
 <br>
