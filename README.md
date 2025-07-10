@@ -23,7 +23,7 @@
  <a href="mailto:hassanaamer048@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <!--  <a href="mailto:hassanaamer048@gmail.com"><img  src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width="100px" height="30"/></a> -->
     &nbsp;
-<a href="[https://www.facebook.com/profile.php?id=100009255534754](https://www.linkedin.com/in/%E2%80%AAhassan-mohamed%E2%80%AC%E2%80%8F-537423264/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/%E2%80%AAhassan-mohamed%E2%80%AC%E2%80%8F-537423264/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <!-- <a href="https://www.facebook.com/profile.php?id=100009255534754"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" width="100px" height="30"/></a> -->
     &nbsp;
 <!-- <a href="https://www.linkedin.com/in/%E2%80%AAhassan-mohamed%E2%80%AC%E2%80%8F-537423264/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px" height="30"/></a> -->
