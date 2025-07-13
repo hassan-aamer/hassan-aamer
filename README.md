@@ -77,6 +77,7 @@ width="100px" height="30"/></a> -->
     <img src="https://skillicons.dev/icons?i=npm" />
     <img src="https://skillicons.dev/icons?i=bots" />
     <img src="https://skillicons.dev/icons?i=aiscript" />
+    <img src="https://skillicons.dev/icons?i=aws" />
   </a>
 </div>
 <br>
