@@ -56,6 +56,7 @@ width="100px" height="30"/></a> -->
     <img src="https://skillicons.dev/icons?i=laravel" />
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=sqlite" />
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=github" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
