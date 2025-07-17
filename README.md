@@ -67,6 +67,7 @@ width="100px" height="30"/></a> -->
     <img src="https://skillicons.dev/icons?i=ubuntu" />
     <img src="https://skillicons.dev/icons?i=windows" />
     <img src="https://skillicons.dev/icons?i=phpstorm" />
+    <img src="https://skillicons.dev/icons?i=sublime" />
     <img src="https://skillicons.dev/icons?i=bitbucket" />
     <img src="https://skillicons.dev/icons?i=gitlab" />
     <img src="https://skillicons.dev/icons?i=firebase" />
