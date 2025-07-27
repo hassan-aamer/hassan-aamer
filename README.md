@@ -96,7 +96,8 @@ width="100px" height="30"/></a> -->
   </span>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="hassan-aamer" style="width: 100%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats for hassan-aamer" style="width: 100%; margin-top: 20px;" />
+</p>
 &nbsp;
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=tokyonight&hide_border=true&locale=en" alt="hassan-aamer" style="width: 100%;" />
 </p>
