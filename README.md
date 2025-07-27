@@ -85,25 +85,25 @@ width="100px" height="30"/></a> -->
 <br>
 <br>&nbsp;
 
-
+<!--
 ## <picture></picture> 📊 Github Stats :
 <br>
-<p style="text-align: center;">
+ <p style="text-align: center;">
   <span style="display: inline-block; width: 100%;">
     <center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: auto;" />
     </center>
   </span>
-</p>
-
+</p> -->
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="hassan-aamer" style="width: 100%" /></p>
 &nbsp;
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=tokyonight&hide_border=true&locale" alt="hassan-aamer" style="width: 100%" /></p>
+-->
 
-
-<!--<img width=100% title="Hornet-Developer" alt="Hassan"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>-->
+<!--<img width=100% title="Hornet-Developer" alt="Hassan"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
-
+-->
 
 
 
