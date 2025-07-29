@@ -51,7 +51,8 @@ width="100px" height="30"/></a> -->
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=jquery" />
     <img src="https://skillicons.dev/icons?i=python" />
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=cs" />
+<!--     <img src="https://skillicons.dev/icons?i=net" /> -->
     <img src="https://skillicons.dev/icons?i=php" />
     <img src="https://skillicons.dev/icons?i=laravel" />
     <img src="https://skillicons.dev/icons?i=mysql" />
@@ -59,24 +60,25 @@ width="100px" height="30"/></a> -->
     <img src="https://skillicons.dev/icons?i=sqlite" />
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=gitlab" />
+    <img src="https://skillicons.dev/icons?i=bitbucket" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=npm" />
     <img src="https://skillicons.dev/icons?i=graphql" />
     <img src="https://skillicons.dev/icons?i=postman" />
-    <img src="https://skillicons.dev/icons?i=linux" />
-    <img src="https://skillicons.dev/icons?i=vscode" />
-    <img src="https://skillicons.dev/icons?i=ubuntu" />
+    <img src="https://skillicons.dev/icons?i=docker" />
     <img src="https://skillicons.dev/icons?i=windows" />
+    <img src="https://skillicons.dev/icons?i=ubuntu" />
+    <img src="https://skillicons.dev/icons?i=linux" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
     <img src="https://skillicons.dev/icons?i=phpstorm" />
     <img src="https://skillicons.dev/icons?i=sublime" />
-    <img src="https://skillicons.dev/icons?i=bitbucket" />
-    <img src="https://skillicons.dev/icons?i=gitlab" />
     <img src="https://skillicons.dev/icons?i=firebase" />
     <img src="https://skillicons.dev/icons?i=powershell" />
     <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
-    <img src="https://skillicons.dev/icons?i=docker" />
     <img src="https://skillicons.dev/icons?i=notion" />
-    <img src="https://skillicons.dev/icons?i=npm" />
     <img src="https://skillicons.dev/icons?i=bots" />
     <img src="https://skillicons.dev/icons?i=aiscript" />
     <img src="https://skillicons.dev/icons?i=aws" />
