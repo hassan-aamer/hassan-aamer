@@ -26,7 +26,7 @@
 <!--   <a href="https://www.linkedin.com/in/hassan-mohamed%E2%80%AC%E2%80%8F-537423264/"><img src="https://skillicons.dev/icons?i=linkedin" /></a> -->
 <!-- <a href="https://www.facebook.com/profile.php?id=100009255534754"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" width="100px" height="30"/></a>
     &nbsp; -->
-<a href="www.linkedin.com/in/hassanaamer"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px" height="30"/></a>
+<a href="https://www.linkedin.com/in/hassanaamer"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px" height="30"/></a>
 <!--     &nbsp; -->
 <!--  <a href="https://www.instagram.com/hassan.m.aamer/?next=%2F"><img src="https://skillicons.dev/icons?i=instagram" /></a> -->
 <!--  <a href="https://www.instagram.com/hassan.m.aamer/?next=%2F"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" 
