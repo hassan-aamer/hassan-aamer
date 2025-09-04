@@ -65,22 +65,23 @@ width="100px" height="30"/></a> -->
     <img src="https://skillicons.dev/icons?i=nodejs" />
     <img src="https://skillicons.dev/icons?i=npm" />
     <img src="https://skillicons.dev/icons?i=graphql" />
+    <img src="https://skillicons.dev/icons?i=redis" />
     <img src="https://skillicons.dev/icons?i=postman" />
     <img src="https://skillicons.dev/icons?i=docker" />
-    <img src="https://skillicons.dev/icons?i=windows" />
+<!--     <img src="https://skillicons.dev/icons?i=windows" /> -->
     <img src="https://skillicons.dev/icons?i=ubuntu" />
     <img src="https://skillicons.dev/icons?i=linux" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" />
-    <img src="https://skillicons.dev/icons?i=vscode" />
-    <img src="https://skillicons.dev/icons?i=phpstorm" />
-    <img src="https://skillicons.dev/icons?i=sublime" />
+<!--     <img src="https://skillicons.dev/icons?i=visualstudio" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=vscode" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=phpstorm" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=sublime" /> -->
     <img src="https://skillicons.dev/icons?i=firebase" />
     <img src="https://skillicons.dev/icons?i=powershell" />
-    <img src="https://skillicons.dev/icons?i=figma" />
-    <img src="https://skillicons.dev/icons?i=stackoverflow" />
-    <img src="https://skillicons.dev/icons?i=notion" />
-    <img src="https://skillicons.dev/icons?i=bots" />
-    <img src="https://skillicons.dev/icons?i=aiscript" />
+<!--     <img src="https://skillicons.dev/icons?i=figma" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=stackoverflow" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=notion" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=bots" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=aiscript" /> -->
     <img src="https://skillicons.dev/icons?i=aws" />
   </a>
 </div>
