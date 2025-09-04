@@ -21,17 +21,20 @@
 <p align="center">
 <br><br>&nbsp;&nbsp;
 
-<a href="mailto:hassanaamer048@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/hassanaamer" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://wa.me/201129730475" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
+<p align="center">
+  <a href="mailto:hassanaamer048@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="display:block;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hassanaamer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="display:block;"/>
+  </a>
+  <a href="https://wa.me/201001234567" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="display:block;"/>
+  </a>
+</p>
+
+
+
 
 </p>
 
