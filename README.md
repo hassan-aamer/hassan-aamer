@@ -11,7 +11,7 @@
 
 
 <div align="center">
-    <img src="https://github.com/hassan-aamer/My_Portfolio/blob/master/images/web.gif?raw=true" alt="web" style="max-width: 100%;">
+    <img src="https://github.com/hassan-aamer/My_Portfolio/blob/main/images/web.gif?raw=true" alt="web" style="max-width: 100%;">
 </div>
 
 <br>
