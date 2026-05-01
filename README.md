@@ -1,77 +1,55 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
- <img width=100% title="Developer" alt="Hassan" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Software+Engineer+👨‍💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>  
 
- <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg">  
-</p> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hassan-aamer&label=Profile%20views&color=blueviolet" alt="hassan-aamer"  /> </p>
-<br>
+<img width=100% title="Software Engineer" alt="Hassan Mohamed" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Software+Engineer+👨‍💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/> 
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Software+Engineer;Specialized+in+PHP+Laravel;Expert+in+Java+Spring+Boot;Clean+Code+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=hassan-aamer&label=Profile%20views&color=blueviolet" alt="hassan-aamer" /> 
+</p>
 
 <div align="center">
-    <img src="https://github.com/hassan-aamer/My_Portfolio/blob/main/images/web.gif?raw=true" alt="web" style="max-width: 100%;">
+    <img src="https://github.com/hassan-aamer/My_Portfolio/blob/main/images/web.gif?raw=true" alt="Web Development Animation" style="max-width: 100%;">
 </div>
 
 <br>
 
+## 🚀 About Me
+I am a **Full Stack Software Engineer** focused on building high-performance applications using **PHP (Laravel)** and **Java (Spring Boot)**. My goal is to write clean, smart, and efficient code while exploring the world of **Artificial Intelligence**.
 
-##  Contact With Me :
+---
 
-<br>
+## 🛠 Languages and Tools:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,js,vue,python,go,nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=phpstorm,idea,postman,graphql,githubactions,npm,maven,git" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,ubuntu,nginx,github,gitlab,bitbucket,tailwind,bootstrap" />
+</div>
+
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-<br>
-<a href="https://web.facebook.com/hassan.mohamed.871948"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📬 Contact With Me:
+<p align="center">
 <a href="https://www.linkedin.com/in/hassan-mohamed-dev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://web.facebook.com/hassan.mohamed.871948"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="mailto:hassanaamer048@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://wa.me/201129730475" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>&nbsp;
 </p>
 
-##  languages and Tools :
-<br><br>
-<div align="center">
-  <a >
-    <img src="https://skillicons.dev/icons?i=html" />
-    <img src="https://skillicons.dev/icons?i=css" />
-    <img src="https://skillicons.dev/icons?i=js" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-    <img src="https://skillicons.dev/icons?i=react" />
-    <img src="https://skillicons.dev/icons?i=jquery" />
-    <img src="https://skillicons.dev/icons?i=python" />
-    <img src="https://skillicons.dev/icons?i=go" />
-    <img src="https://skillicons.dev/icons?i=java" />
-    <img src="https://skillicons.dev/icons?i=spring" />
-    <img src="https://skillicons.dev/icons?i=php" />
-    <img src="https://skillicons.dev/icons?i=laravel" />
-    <img src="https://skillicons.dev/icons?i=mysql" />
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-    <img src="https://skillicons.dev/icons?i=sqlite" />
-    <img src="https://skillicons.dev/icons?i=postgresql" />
-    <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=github" />
-    <img src="https://skillicons.dev/icons?i=gitlab" />
-    <img src="https://skillicons.dev/icons?i=bitbucket" />
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-    <img src="https://skillicons.dev/icons?i=npm" />
-    <img src="https://skillicons.dev/icons?i=graphql" />
-    <img src="https://skillicons.dev/icons?i=postman" />
-    <img src="https://skillicons.dev/icons?i=docker" />
-    <img src="https://skillicons.dev/icons?i=ubuntu" />
-    <img src="https://skillicons.dev/icons?i=linux" />
-    <img src="https://skillicons.dev/icons?i=firebase" />
-    <img src="https://skillicons.dev/icons?i=powershell" />
-    <img src="https://skillicons.dev/icons?i=redis" />
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
-</div>
-<br>
-<br>&nbsp;
+<img width=100% title="Hornet-Developer" alt="Hassan Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
-
-<img width=100% title="Hornet-Developer" alt="Hassan"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
-
-
-
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
