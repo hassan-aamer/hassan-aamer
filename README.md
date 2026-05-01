@@ -19,25 +19,29 @@
 <br>
 
 ## 🚀 About Me
-I am a **Full Stack Software Engineer** focused on building high-performance applications using **PHP (Laravel)** and **Java (Spring Boot)**. My goal is to write clean, smart, and efficient code while exploring the world of **Artificial Intelligence**.
+I am a **Software Engineer** focused on building high-performance applications using **PHP (Laravel)** and **Java (Spring Boot)**. My goal is to write clean, smart, and efficient code.
 
 ---
 
 ## 🛠 Languages and Tools:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,js,vue,python,go,nodejs" /><br>
-  <img src="https://skillicons.dev/icons?i=phpstorm,idea,postman,graphql,githubactions,npm,maven,git" /><br>
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,python,go,js,vue" /><br>
+  <img src="https://skillicons.dev/icons?i=githubactions,docker,nginx,aws,git,postman,graphql,npm,maven" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,ubuntu,nginx,github,gitlab,bitbucket,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,phpstorm,idea,github,gitlab,bitbucket,tailwind,bootstrap" />
 </div>
-
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<!-- قسم الكؤوس الجديد يضاف هنا لزيادة الاحترافية -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hassan-aamer&theme=tokyonight&rank=SSS,SS,S,A" alt="Hassan Trophies" />
 </p>
 
 ---
