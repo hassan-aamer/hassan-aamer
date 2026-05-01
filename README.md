@@ -17,7 +17,7 @@
 <br>
 
 
-## <picture> <img src="https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/Connect-with-me.gif?alt=media&token=970c137c-ed55-4339-b288-d09f4d3f5b8a" width="100px"> </picture> Contact With Me :
+##  Contact With Me :
 
 <br>
 <p align="center">
@@ -32,7 +32,7 @@
 
 
 
-## <picture><img src = "https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/about_me.gif?alt=media&token=6461e44b-6d0a-442a-98c7-64f204d965e4" width = 50px></picture> languages and Tools :
+##  languages and Tools :
 <br><br>
 <div align="center">
   <a >
