@@ -3,7 +3,6 @@
 
  <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg">  
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=50&lines=Welcome!;I+am+Hassan;Full+Stack+Developer;PHP+Laravel;JAVA+Spring;" alt="Hassan" /></a> -->
 </p> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hassan-aamer&label=Profile%20views&color=blueviolet" alt="hassan-aamer"  /> </p>
 <br>
@@ -27,10 +26,6 @@
 <a href="mailto:hassanaamer048@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://wa.me/201129730475" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>&nbsp;
 </p>
-
-
-
-
 
 ##  languages and Tools :
 <br><br>
@@ -62,20 +57,10 @@
     <img src="https://skillicons.dev/icons?i=graphql" />
     <img src="https://skillicons.dev/icons?i=postman" />
     <img src="https://skillicons.dev/icons?i=docker" />
-<!--     <img src="https://skillicons.dev/icons?i=windows" /> -->
     <img src="https://skillicons.dev/icons?i=ubuntu" />
     <img src="https://skillicons.dev/icons?i=linux" />
-<!--     <img src="https://skillicons.dev/icons?i=visualstudio" /> -->
-<!--     <img src="https://skillicons.dev/icons?i=vscode" /> -->
-<!--     <img src="https://skillicons.dev/icons?i=phpstorm" /> -->
-<!--     <img src="https://skillicons.dev/icons?i=sublime" /> -->
     <img src="https://skillicons.dev/icons?i=firebase" />
     <img src="https://skillicons.dev/icons?i=powershell" />
-<!--     <img src="https://skillicons.dev/icons?i=figma" /> -->
-<!--     <img src="https://skillicons.dev/icons?i=stackoverflow" /> -->
-<!--     <img src="https://skillicons.dev/icons?i=notion" /> -->
-<!--     <img src="https://skillicons.dev/icons?i=bots" /> -->
-<!--     <img src="https://skillicons.dev/icons?i=aiscript" /> -->
     <img src="https://skillicons.dev/icons?i=redis" />
     <img src="https://skillicons.dev/icons?i=aws" />
   </a>
@@ -83,23 +68,6 @@
 <br>
 <br>&nbsp;
 
-<!--
-## <picture></picture> 📊 Github Stats :
-<br>
- <p style="text-align: center;">
-  <span style="display: inline-block; width: 100%;">
-    <center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="hassan-aamer" style="width: 100%; height: auto;" />
-    </center>
-  </span>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-aamer&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats for hassan-aamer" style="width: 100%; margin-top: 20px;" />
-</p>
-&nbsp;
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=tokyonight&hide_border=true&locale=en" alt="hassan-aamer" style="width: 100%;" />
-</p>
--->
 
 <img width=100% title="Hornet-Developer" alt="Hassan"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
