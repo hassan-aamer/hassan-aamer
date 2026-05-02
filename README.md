@@ -29,7 +29,7 @@ I am a **Software Engineer** focused on building high-performance applications u
   <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,python,go,js,vue" /><br>
   <img src="https://skillicons.dev/icons?i=githubactions,docker,nginx,aws,git,postman,graphql,npm,maven" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase" /><br>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,phpstorm,idea,github,gitlab,bitbucket,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,phpstorm,idea,github,gitlab,bitbucket,tailwind,bootstrap" />
 </div>
 
 ---
@@ -39,7 +39,6 @@ I am a **Software Engineer** focused on building high-performance applications u
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<!-- قسم الكؤوس الجديد يضاف هنا لزيادة الاحترافية -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hassan-aamer&theme=tokyonight&rank=SSS,SS,S,A" alt="Hassan Trophies" />
 </p>
