@@ -55,6 +55,7 @@ I am a **Software Engineer** focused on building high-performance applications u
 
 ## 📬 Contact With Me:
 <p align="center">
+<a href="https://www.linkedin.com/in/hassan-mohamed-dev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:hassanaamer048@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://wa.me/201129730475" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>&nbsp;
 </p>
