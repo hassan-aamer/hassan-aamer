@@ -48,7 +48,7 @@ I am a **Software Engineer** focused on building high-performance applications u
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassan-aamer&theme=tokyonight&hidden=issues,reviews" alt="Hassan Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hassan-aamer&theme=tokyonight" alt="Hassan Trophies" />
 </p>
 
 ---
