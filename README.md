@@ -43,12 +43,12 @@ I am a **Software Engineer** focused on building high-performance applications u
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=tokyonight&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=tokyonight&v=2" alt="GitHub Streak" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassan-aamer&theme=tokyonight&v=1" alt="Hassan Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hassan-aamer&theme=tokyonight&v=2" alt="Hassan Trophies" />
 </p>
 
 ---
