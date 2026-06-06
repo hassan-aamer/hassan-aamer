@@ -38,18 +38,7 @@ I am a **Software Engineer** focused on building high-performance applications u
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,phpstorm,idea,github,gitlab,bitbucket,tailwind,bootstrap" />
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-aamer&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassan-aamer&theme=tokyonight" alt="Hassan Trophies" />
-</p>
 
 ---
 
