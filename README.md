@@ -19,7 +19,7 @@
 <br>
 
 ## 🚀 About Me
-I am a **Software Engineer** focused on building high-performance applications using **PHP (Laravel)** and **Java (Spring Boot)**. My goal is to write clean, smart, and efficient code.
+I am a **Software Engineer & Backend Architect** focused on building scalable, high-availability systems using **Java (Spring Boot)** and **PHP (Laravel)**. My engineering philosophy is strictly guided by **Clean Architecture**, **SOLID principles**, and robust **System Design** to deliver fast, secure, and future-proof solutions.
 
 ---
 
