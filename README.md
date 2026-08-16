@@ -27,7 +27,7 @@ I am a **Software Engineer & Backend Architect** focused on building scalable, h
 
 <div align="center">
   <!-- Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,python,go,js,vue" /><br>
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,python,go,js" /><br>
   <!-- Cloud, AI & DevOps (الإضافة الجديدة هنا) -->
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,kubernetes,cloudflare,tensorflow,pytorch" /><br>
   <!-- Tools & Infrastructure -->
@@ -35,7 +35,7 @@ I am a **Software Engineer & Backend Architect** focused on building scalable, h
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase" /><br>
   <!-- Environment & IDEs -->
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,phpstorm,idea,github,gitlab,bitbucket,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,phpstorm,idea,eclipse,github,gitlab,bitbucket,tailwind,bootstrap" />
 </div>
 
 
