@@ -12,78 +12,49 @@
   <img src="https://komarev.com/ghpvc/?username=hassan-aamer&label=Profile%20Views&color=blueviolet" alt="Profile Views" />
 </p>
 
-<div align="center">
-  <img src="https://github.com/hassan-aamer/My_Portfolio/blob/main/images/web.gif?raw=true" alt="Web Development Animation" style="max-width: 100%;">
-</div>
-
 <br>
 
 ## 🚀 About Me
 
-I am a **Backend Software Engineer** specializing in **Java (Spring Boot)** and **PHP (Laravel)**, with a strong foundation in **Computer Science, Object-Oriented Programming, and Software Engineering principles**.
+I am a **Backend Software Engineer** specializing in **Java (Spring Boot)** and **PHP (Laravel)**, with a strong foundation in Computer Science and Software Engineering principles.
 
-I focus on building **secure, maintainable, and scalable backend systems**, with an emphasis on clean architecture, performance, reliability, and writing code that is easy to understand and evolve.
+I focus on building **secure, maintainable, and scalable backend systems** — RESTful APIs, clean architecture, and performance-optimized services that are easy to understand, test, and evolve.
 
-* ⚡ **Backend Focus:** Java, Spring Boot, PHP, Laravel, RESTful APIs
-* 🗄️ **Data:** SQL, MySQL, PostgreSQL, MongoDB, Redis
 * 🏗️ **Architecture:** Clean Architecture, System Design, Microservices, Event-Driven Architecture
-* 🧪 **Code Quality:** Clean Code, Testable Code, Maintainability, Performance Optimization
-* 🚀 **DevOps & Infrastructure:** Docker, CI/CD, Linux, AWS
-* 🎯 **Mission:** Build software that is not only functional, but also clean, maintainable, scalable, and reliable.
+* 🧪 **Code Quality:** SOLID, Design Patterns, Clean Code, Testing, Performance Optimization
+* 🎯 **Mission:** Build software that is not only functional, but clean, maintainable, and reliable.
 
 ---
 
-## 📚 Software Engineering
+## 🛠️ Tech Stack
+
+**Backend:** Java • Spring Boot • PHP • Laravel • REST APIs • Microservices
+
+**Databases & Caching:** MySQL • PostgreSQL • MongoDB • Redis
+
+**DevOps & Cloud:** Docker • GitHub Actions • AWS • Linux
+
+**Tools:** Git • GitHub • GitLab • Bitbucket • Postman • GraphQL • Maven
 
 <div align="center">
-
-`OOP` • `SOLID` • `Design Patterns` • `Clean Code` • `Clean Architecture`
-
-`REST APIs` • `System Design` • `Database Optimization` • `Microservices`
-
-`Exception Handling` • `Transactions` • `Caching Strategies` • `Testing`
-
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,postgresql,mongodb,redis,docker,githubactions,aws,linux,git,github,graphql" />
 </div>
 
 ---
 
-## 💡 Core Technologies
+## 📌 Featured Projects
 
-`Java` • `Spring Boot` • `PHP` • `Laravel` • `REST APIs` • `SQL` • `Docker` • `Git` • `Microservices` • `System Design`
+### [Spring Boot E-Commerce API](https://github.com/hassan-aamer/Spring-Boot-E-Commerce-Project)
+Scalable E-Commerce RESTful API built with Java Spring Boot, implementing Clean Architecture, Spring Security (JWT), Redis Caching, and Docker.
+`Java` `Spring Boot` `Spring Security` `Redis` `Docker`
 
----
+### [Shift 7 — B2C E-commerce Platform](https://shift7store.com/)
+Multi-tenant e-commerce platform with dynamic pricing and inventory synchronization. Resolved N+1 query issues, optimized indexing and Eloquent relationships, and implemented Elasticsearch for faster, more relevant search results.
+`PHP` `Laravel` `Elasticsearch` `MySQL`
 
-## 🛠️ Languages & Technologies
-
-### 💻 Backend Development
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel" />
-</div>
-
-<br>
-
-### 🗄️ Databases & Caching
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
-</div>
-
-<br>
-
-### ☁️ DevOps & Cloud
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux" />
-</div>
-
-<br>
-
-### 🔧 Development Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,postman,graphql,maven" />
-</div>
+### [Gasly — IoT & Smart Gas E-Commerce Platform](https://gasly.io/)
+Backend platform integrating IoT devices with an e-commerce ecosystem for real-time gas consumption tracking. Built RESTful APIs for telemetry ingestion and Redis queue-based asynchronous alerting workflows.
+`PHP` `Laravel` `Redis` `REST APIs`
 
 ---
 
