@@ -11,6 +11,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hassan-aamer&label=Profile%20Views&color=blueviolet" alt="Profile Views" />
 </p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hassan-aamer.visitor-badge&left_text=Profile%20Views&format=true&logo=github&radius=5&height=30" alt="Profile Views" width="0" height="0" />
+</p>
 
 <br>
 
