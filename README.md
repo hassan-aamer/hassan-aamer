@@ -53,11 +53,11 @@ Scalable E-Commerce RESTful API built with Java Spring Boot, implementing Clean 
 
 ### [Shift 7 — B2C E-commerce Platform](https://shift7store.com/)
 Multi-tenant e-commerce platform with dynamic pricing and inventory synchronization. Resolved N+1 query issues, optimized indexing and Eloquent relationships, and implemented Elasticsearch for faster, more relevant search results.
-`PHP` `Laravel` `Elasticsearch` `MySQL`
+`PHP` `Laravel` `Elasticsearch` `MySQL` `Redis` `REST APIs`
 
 ### [Gasly — IoT & Smart Gas E-Commerce Platform](https://gasly.io/)
 Backend platform integrating IoT devices with an e-commerce ecosystem for real-time gas consumption tracking. Built RESTful APIs for telemetry ingestion and Redis queue-based asynchronous alerting workflows.
-`PHP` `Laravel` `Redis` `REST APIs`
+`PHP` `Laravel` `MySQL` `Redis` `REST APIs`
 
 ---
 
