@@ -11,36 +11,40 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hassan-aamer&label=Profile%20Views&color=blueviolet" alt="Profile Views" />
 </p>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hassan-aamer.visitor-badge&left_text=Profile%20Views&format=true&logo=github&radius=5&height=30" alt="Profile Views" width="0" height="0" />
-</p>
 
 <br>
 
 ## 🚀 About Me
 
-I am a **Backend Software Engineer** specializing in **Java (Spring Boot)** and **PHP (Laravel)**, with a strong foundation in Computer Science and Software Engineering principles.
+I am a **Backend Software Engineer** with **4+ years of experience** building scalable APIs and distributed systems using **Java (Spring Boot)** and **PHP (Laravel)**, with a strong foundation in Computer and Information Sciences.
 
-I focus on building **secure, maintainable, and scalable backend systems** — RESTful APIs, clean architecture, and performance-optimized services that are easy to understand, test, and evolve.
+I focus on building **secure, maintainable, and scalable backend systems** — RESTful APIs, clean architecture, and performance-optimized services across SaaS, healthcare, and e-commerce platforms.
 
 * 🏗️ **Architecture:** Clean Architecture, System Design, Microservices, Event-Driven Architecture
 * 🧪 **Code Quality:** SOLID, Design Patterns, Clean Code, Testing, Performance Optimization
+* 🤖 **AI Integration:** LLM API Integration, Prompt Engineering, Workflow Automation (n8n)
 * 🎯 **Mission:** Build software that is not only functional, but clean, maintainable, and reliable.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend:** `Java` • `Spring Boot` • `PHP` • `Laravel` • `REST APIs` • `Microservices`
+**Languages:** `Java` • `PHP 8+` • `SQL` • `JavaScript (ES6+)`
 
-**Databases & Caching:** `MySQL` • `PostgreSQL` • `MongoDB` • `Redis`
+**Backend & Frameworks:** `Spring Boot` • `Spring Data JPA` • `Spring Security` • `Spring MVC` • `Laravel` • `REST APIs` • `GraphQL` • `WebSocket`
 
-**DevOps & Cloud:** `Docker` • `GitHub Actions` • `AWS` • `Linux`
+**Databases & Caching:** `MySQL` • `PostgreSQL` • `MongoDB` • `Redis` • `Hibernate/JPA`
 
-**Tools:** `Git` • `GitHub` • `GitLab` • `Bitbucket` • `Postman` • `GraphQL` • `Maven`
+**Security & Auth:** `JWT Authentication` • `Spring Security` • `RBAC`
+
+**Testing & Quality:** `JUnit` • `PHPUnit` • `Apache JMeter` • `k6`
+
+**DevOps & Cloud:** `Docker` • `GitHub Actions` • `AWS (EC2, S3)` • `DigitalOcean` • `Linux`
+
+**Search & Tools:** `Elasticsearch` • `Git` • `GitHub` • `GitLab` • `Bitbucket` • `Postman` • `Maven` • `Jira`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,postgresql,mongodb,redis,docker,githubactions,aws,linux,git,github,graphql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,mysql,postgresql,mongodb,redis,docker,githubactions,aws,linux,git,github,graphql" />
 </div>
 
 ---
@@ -48,7 +52,7 @@ I focus on building **secure, maintainable, and scalable backend systems** — R
 ## 📌 Featured Projects
 
 ### [Spring Boot E-Commerce API](https://github.com/hassan-aamer/Spring-Boot-E-Commerce-Project)
-Scalable E-Commerce RESTful API built with Java Spring Boot, implementing Clean Architecture, Spring Security (JWT), Redis Caching, and Docker.
+Modular monolithic REST API built with Java Spring Boot and Spring Data JPA — transactional business logic, Bean Validation, structured exception handling, JWT authentication, Hibernate query optimization, and Swagger/OpenAPI documentation.
 `Java` `Spring Boot` `Spring Security` `Redis` `Docker`
 
 ### [Shift 7 — B2C E-commerce Platform](https://shift7store.com/)
@@ -56,7 +60,7 @@ Multi-tenant e-commerce platform with dynamic pricing and inventory synchronizat
 `PHP` `Laravel` `Elasticsearch` `MySQL` `Redis` `REST APIs`
 
 ### [Gasly — IoT & Smart Gas E-Commerce Platform](https://gasly.io/)
-Backend platform integrating IoT devices with an e-commerce ecosystem for real-time gas consumption tracking. Built RESTful APIs for telemetry ingestion and Redis queue-based asynchronous alerting workflows.
+Backend platform integrating IoT devices with an e-commerce ecosystem for real-time gas consumption tracking. Built RESTful APIs for telemetry ingestion and Redis queue-based asynchronous alerting workflows, plus a multi-tenant logistics system for automated delivery.
 `PHP` `Laravel` `MySQL` `Redis` `REST APIs`
 
 ---
