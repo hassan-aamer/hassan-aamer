@@ -31,13 +31,13 @@ I focus on building **secure, maintainable, and scalable backend systems** — R
 
 ## 🛠️ Tech Stack
 
-**Backend:** Java • Spring Boot • PHP • Laravel • REST APIs • Microservices
+**Backend:** `Java` • `Spring Boot` • `PHP` • `Laravel` • `REST APIs` • `Microservices`
 
-**Databases & Caching:** MySQL • PostgreSQL • MongoDB • Redis
+**Databases & Caching:** `MySQL` • `PostgreSQL` • `MongoDB` • `Redis`
 
-**DevOps & Cloud:** Docker • GitHub Actions • AWS • Linux
+**DevOps & Cloud:** `Docker` • `GitHub Actions` • `AWS` • `Linux`
 
-**Tools:** Git • GitHub • GitLab • Bitbucket • Postman • GraphQL • Maven
+**Tools:** `Git` • `GitHub` • `GitLab` • `Bitbucket` • `Postman` • `GraphQL` • `Maven`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,postgresql,mongodb,redis,docker,githubactions,aws,linux,git,github,graphql" />
