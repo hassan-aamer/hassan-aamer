@@ -53,7 +53,7 @@ I focus on building **secure, maintainable, and scalable backend systems** — R
 
 ### [BookFlex-Microservices](https://github.com/hassan-aamer/BookFlex-Microservices)
 Production-grade microservices system demonstrating SOLID principles, design patterns (State, Strategy, Factory, Observer, Saga), and concurrency control — built with Java 21 & Spring Boot 3.3
-`Java` `Spring Boot` `microservices` `design-patterns` `solid-principles` `spring-security` `Spring Security` `jwt` `MySql` `Redis` `Docker` `REST APIs`
+`Java` `Spring Boot` `microservices` `design-patterns` `solid-principles` `spring-security` `Spring Security` `jwt` `postgresql` `Redis` `Docker` `REST APIs`
 
 ### [Spring Boot E-Commerce API](https://github.com/hassan-aamer/Spring-Boot-E-Commerce-Project)
 Modular monolithic REST API built with Java Spring Boot and Spring Data JPA — transactional business logic, Bean Validation, structured exception handling, JWT authentication, Hibernate query optimization, and Swagger/OpenAPI documentation.
