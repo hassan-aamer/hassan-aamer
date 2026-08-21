@@ -51,9 +51,13 @@ I focus on building **secure, maintainable, and scalable backend systems** — R
 
 ## 📌 Featured Projects
 
+### [BookFlex-Microservices](https://github.com/hassan-aamer/BookFlex-Microservices)
+Production-grade microservices system demonstrating SOLID principles, design patterns (State, Strategy, Factory, Observer, Saga), and concurrency control — built with Java 21 & Spring Boot 3.3
+`Java` `Spring Boot` `microservices` `design-patterns` `solid-principles` `spring-security` `Spring Security` `jwt` `MySql` `Redis` `Docker` `REST APIs`
+
 ### [Spring Boot E-Commerce API](https://github.com/hassan-aamer/Spring-Boot-E-Commerce-Project)
 Modular monolithic REST API built with Java Spring Boot and Spring Data JPA — transactional business logic, Bean Validation, structured exception handling, JWT authentication, Hibernate query optimization, and Swagger/OpenAPI documentation.
-`Java` `Spring Boot` `Spring Security` `Redis` `Docker`
+`Java` `Spring Boot` `Spring Security` `MySql` `Docker` `REST APIs`
 
 ### [Shift 7 — B2C E-commerce Platform](https://shift7store.com/)
 Multi-tenant e-commerce platform with dynamic pricing and inventory synchronization. Resolved N+1 query issues, optimized indexing and Eloquent relationships, and implemented Elasticsearch for faster, more relevant search results.
@@ -62,6 +66,10 @@ Multi-tenant e-commerce platform with dynamic pricing and inventory synchronizat
 ### [Gasly — IoT & Smart Gas E-Commerce Platform](https://gasly.io/)
 Backend platform integrating IoT devices with an e-commerce ecosystem for real-time gas consumption tracking. Built RESTful APIs for telemetry ingestion and Redis queue-based asynchronous alerting workflows, plus a multi-tenant logistics system for automated delivery.
 `PHP` `Laravel` `MySQL` `Redis` `REST APIs`
+
+### [Invoices System](https://github.com/hassan-aamer/Invoices_System)
+This project is a Invoices system based on the Laravel framework for creating a backend, and bootstrap, HTML, CSS and JavaScript for designing and formatting the front end. The system aims to manage invoices efficiently, while providing an attractive and easy-to-use user interface for creating, viewing and tracking invoices.
+`PHP` `MySql` `Laravel` `Blade` `REST APIs`
 
 ---
 
