@@ -67,10 +67,6 @@ Multi-tenant e-commerce platform with dynamic pricing and inventory synchronizat
 Backend platform integrating IoT devices with an e-commerce ecosystem for real-time gas consumption tracking. Built RESTful APIs for telemetry ingestion and Redis queue-based asynchronous alerting workflows, plus a multi-tenant logistics system for automated delivery.
 `PHP` `Laravel` `MySQL` `Redis` `REST APIs`
 
-### [Invoices System](https://github.com/hassan-aamer/Invoices_System)
-This project is a Invoices system based on the Laravel framework for creating a backend, and bootstrap, HTML, CSS and JavaScript for designing and formatting the front end. The system aims to manage invoices efficiently, while providing an attractive and easy-to-use user interface for creating, viewing and tracking invoices.
-`PHP` `MySql` `Laravel` `Blade` `REST APIs`
-
 ---
 
 ## 📬 Contact Me
