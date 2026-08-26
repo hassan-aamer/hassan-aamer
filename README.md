@@ -48,7 +48,7 @@ I focus on building **secure, maintainable, and scalable backend systems** — R
 **Search & Tools:** `Elasticsearch` • `Git` • `GitHub` • `GitLab` • `Bitbucket` • `Postman` • `Maven` • `Jira`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,mysql,postgresql,mongodb,redis,docker,githubactions,aws,linux,git,github,graphql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,mysql,postgresql,mongodb,redis,docker,githubactions,aws,linux,git,github,graphql&perline=8" />
 </div>
 
 ---
