@@ -1,10 +1,10 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img width="100%" title="Backend Software Engineer" alt="Hassan Mohamed" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Backend+Software+Engineer+👨‍💻&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" title="Java Spring Boot & PHP Laravel Backend Engineer" alt="Hassan Mohamed" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Backend+Engineer+👨‍💻&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+Backend+Developer;PHP+%7C+Laravel+Backend+Developer;RESTful+API+Developer;Clean+Code+%7C+SOLID+%7C+Design+Patterns" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=650&lines=Java+Spring+Boot+%7C+PHP+Laravel+Backend+Engineer;Java+%7C+Spring+Boot+Backend+Engineer;PHP+%7C+Laravel+Backend+Engineer;RESTful+API+%7C+Microservices+Engineer;Clean+Code+%7C+SOLID+%7C+Design+Patterns" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I am a **Backend Software Engineer** with **4+ years of experience** building scalable APIs and distributed systems using **Java (Spring Boot)** and **PHP (Laravel)**, with a strong foundation in Computer and Information Sciences.
+I am a **Java Spring Boot & PHP Laravel Backend Engineer** with **4+ years of experience** building scalable APIs and distributed systems, with a strong foundation in Computer and Information Sciences.
 
 I focus on building **secure, maintainable, and scalable backend systems** — RESTful APIs, clean architecture, and performance-optimized services across SaaS, healthcare, and e-commerce platforms.
 
@@ -31,9 +31,13 @@ I focus on building **secure, maintainable, and scalable backend systems** — R
 
 **Languages:** `Java` • `PHP 8+` • `SQL` • `JavaScript (ES6+)`
 
-**Backend & Frameworks:** `Spring Boot` • `Spring Data JPA` • `Spring Security` • `Spring MVC` • `Laravel` • `REST APIs` • `GraphQL` • `WebSocket`
+**Java / Spring Boot:** `Spring Boot` • `Spring Core` • `Spring MVC` • `Spring Data JPA` • `Spring Security` • `Spring AOP` • `Spring Cloud` • `Hibernate/JPA`
 
-**Databases & Caching:** `MySQL` • `PostgreSQL` • `MongoDB` • `Redis` • `Hibernate/JPA`
+**PHP / Laravel:** `Laravel` • `Eloquent ORM` • `Blade` • `Artisan` • `Laravel Queues` • `Middleware` • `Gates & Policies` • `Form Requests` • `API Resources` • `Events & Listeners` • `Laravel Sanctum` • `Spatie Laravel-Permission` • `Multi-tenancy` • `Livewire` • `Filament`
+
+**API & Integration:** `RESTful API Design` • `GraphQL` • `WebSocket` • `Swagger/OpenAPI` • `Third-Party API Integration`
+
+**Databases & Caching:** `MySQL` • `PostgreSQL` • `MongoDB` • `Redis`
 
 **Security & Auth:** `JWT Authentication` • `Spring Security` • `RBAC`
 
@@ -52,12 +56,12 @@ I focus on building **secure, maintainable, and scalable backend systems** — R
 ## 📌 Featured Projects
 
 ### [BookFlex-Microservices](https://github.com/hassan-aamer/BookFlex-Microservices)
-Production-grade microservices system demonstrating SOLID principles, design patterns (State, Strategy, Factory, Observer, Saga), and concurrency control — built with Java 21 & Spring Boot 3.3
-`Java` `Spring Boot` `microservices` `design-patterns` `solid-principles` `spring-security` `Spring Security` `jwt` `postgresql` `Redis` `Docker` `REST APIs`
+Production-grade microservices system demonstrating SOLID principles, design patterns (State, Strategy, Factory, Observer, Saga), and concurrency control — built with Java 21 & Spring Boot 3.3, using Spring Cloud, Spring Security, JWT, PostgreSQL, Redis, and Docker.
+`Java` `Spring Boot` `Spring Cloud` `Microservices` `Design Patterns` `Spring Security` `JWT` `PostgreSQL` `Redis` `Docker` `REST APIs`
 
 ### [Spring Boot E-Commerce API](https://github.com/hassan-aamer/Spring-Boot-E-Commerce-Project)
 Modular monolithic REST API built with Java Spring Boot and Spring Data JPA — transactional business logic, Bean Validation, structured exception handling, JWT authentication, Hibernate query optimization, and Swagger/OpenAPI documentation.
-`Java` `Spring Boot` `Spring Security` `MySql` `Docker` `REST APIs`
+`Java` `Spring Boot` `Spring Security` `MySQL` `Docker` `REST APIs`
 
 ### [Shift 7 — B2C E-commerce Platform](https://shift7store.com/)
 Multi-tenant e-commerce platform with dynamic pricing and inventory synchronization. Resolved N+1 query issues, optimized indexing and Eloquent relationships, and implemented Elasticsearch for faster, more relevant search results.
