@@ -55,21 +55,62 @@ I focus on building **secure, maintainable, and scalable backend systems** — R
 
 ## 📌 Featured Projects
 
-### [BookFlex-Microservices](https://github.com/hassan-aamer/BookFlex-Microservices)
-Production-grade microservices system demonstrating SOLID principles, design patterns (State, Strategy, Factory, Observer, Saga), and concurrency control — built with Java 21 & Spring Boot 3.3, using Spring Cloud, Spring Security, JWT, PostgreSQL, Redis, and Docker.
-`Java` `Spring Boot` `Spring Cloud` `Microservices` `Design Patterns` `Spring Security` `JWT` `PostgreSQL` `Redis` `Docker` `REST APIs`
+### 🚀 [BookFlex-Microservices](https://github.com/hassan-aamer/BookFlex-Microservices)
 
-### [Spring Boot E-Commerce API](https://github.com/hassan-aamer/Spring-Boot-E-Commerce-Project)
-Modular monolithic REST API built with Java Spring Boot and Spring Data JPA — transactional business logic, Bean Validation, structured exception handling, JWT authentication, Hibernate query optimization, and Swagger/OpenAPI documentation.
-`Java` `Spring Boot` `Spring Security` `MySQL` `Docker` `REST APIs`
+**Production-grade Microservices System**
 
-### [Shift 7 — B2C E-commerce Platform](https://shift7store.com/)
-Multi-tenant e-commerce platform with dynamic pricing and inventory synchronization. Resolved N+1 query issues, optimized indexing and Eloquent relationships, and implemented Elasticsearch for faster, more relevant search results.
-`PHP` `Laravel` `Elasticsearch` `MySQL` `Redis` `REST APIs`
+* Designed and developed a production-grade microservices architecture using **Java 21, Spring Boot 3.3, and Spring Cloud**.
+* Applied **SOLID principles, Clean Architecture, and Design Patterns** including State, Strategy, Factory, Observer, and Saga.
+* Implemented **Spring Security and JWT-based authentication** for secure service communication and API access.
+* Used **PostgreSQL** for persistence and **Redis** for caching and distributed workflows.
+* Implemented **concurrency control** and asynchronous processing for reliable distributed operations.
+* Containerized services using **Docker** for consistent development and deployment environments.
 
-### [Gasly — IoT & Smart Gas E-Commerce Platform](https://gasly.io/)
-Backend platform integrating IoT devices with an e-commerce ecosystem for real-time gas consumption tracking. Built RESTful APIs for telemetry ingestion and Redis queue-based asynchronous alerting workflows, plus a multi-tenant logistics system for automated delivery.
-`PHP` `Laravel` `MySQL` `Redis` `REST APIs`
+`Java 21` `Spring Boot` `Spring Cloud` `Microservices` `Spring Security` `JWT` `PostgreSQL` `Redis` `Docker`
+
+---
+
+### 🛒 [Spring Boot E-Commerce API](https://github.com/hassan-aamer/Spring-Boot-E-Commerce-Project)
+
+**Modular Monolithic E-Commerce REST API**
+
+* Designed and developed a modular monolithic **RESTful API** using **Spring Boot and Spring Data JPA**.
+* Implemented transactional business logic using **Spring Transactions** to maintain data consistency.
+* Added **Bean Validation** and structured exception handling for reliable API behavior.
+* Implemented **JWT-based authentication and authorization** using Spring Security.
+* Optimized **Hibernate/JPA queries and transaction handling** to improve database performance.
+* Implemented **pagination** for large datasets and integrated **Swagger/OpenAPI** for API documentation.
+* Containerized the application using **Docker**.
+
+`Java` `Spring Boot` `Spring Data JPA` `Spring Security` `JWT` `Hibernate` `MySQL` `Docker` `REST APIs` `Swagger`
+
+---
+
+### 🛍️ [Shift 7 — B2C E-Commerce Platform](https://shift7store.com/)
+
+**Multi-Tenant E-Commerce Platform**
+
+* Engineered backend features for a **multi-tenant B2C e-commerce platform** supporting dynamic pricing and inventory synchronization.
+* Identified and resolved **N+1 query problems** by replacing per-relation lazy queries with **Eloquent eager loading**.
+* Reduced average API response time by approximately **25–35%** through database and relationship-loading optimizations.
+* Implemented **Elasticsearch** to provide faster and more relevant product search.
+* Worked with **MySQL and Redis** to support application performance and scalable backend operations.
+
+`PHP` `Laravel` `Eloquent` `MySQL` `Redis` `Elasticsearch` `REST APIs` `Multi-Tenancy`
+
+---
+
+### 🔥 [Gasly — IoT & Smart Gas E-Commerce Platform](https://gasly.io/)
+
+**IoT-Enabled Smart Gas Refill Platform**
+
+* Contributed to a backend platform integrating proprietary **IoT devices mounted on gas cylinders** with an e-commerce ecosystem.
+* Designed and implemented **RESTful APIs** for real-time telemetry ingestion, including gas-level tracking and consumption estimation.
+* Implemented **Redis queue-based asynchronous workflows** for automated low-gas-level alerts and notifications.
+* Contributed to a **multi-tenant logistics system** supporting on-demand cylinder refill and device-order requests.
+* Designed backend workflows connecting **IoT telemetry, e-commerce operations, notifications, and logistics**.
+
+`PHP` `Laravel` `MySQL` `Redis` `REST APIs` `IoT` `Queues` `Asynchronous Processing` `Multi-Tenancy`
 
 ---
 
