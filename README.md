@@ -51,6 +51,20 @@ Experienced in **RESTful APIs, Microservices, Multi-Tenant SaaS, Clean Architect
 
 # 📌 Featured Projects
 
+### 💳 E-Wallet — Microservices
+
+Production-grade e-wallet microservices system built with **Java 21, Spring Boot 3.3** across 7 services (API gateway, Eureka discovery, wallet, transaction, user, notification).
+
+* Double-Entry Ledger Accounting
+* Idempotency Protection
+* Saga-Based Distributed Transfers
+* Pessimistic Locking for Concurrency Control
+* RabbitMQ Event-Driven Notifications
+
+[🔗 View Project](https://github.com/hassan-aamer/E-Wallet-Microservices)
+
+---
+
 ### 🚀 BookFlex — Microservices
 
 Production-grade microservices system built with **Java 21, Spring Boot, Spring Cloud, PostgreSQL, Redis, Docker, Spring Security & JWT**.
@@ -61,20 +75,6 @@ Production-grade microservices system built with **Java 21, Spring Boot, Spring 
 * Distributed concurrency control
 
 [🔗 View Project](https://github.com/hassan-aamer/BookFlex-Microservices)
-
----
-
-### 🛒 Spring Boot E-Commerce API
-
-Modular monolithic **REST API** built with Spring Boot.
-
-* JWT Authentication & Authorization
-* Transactional inventory & order workflows
-* Spring Data JPA / Hibernate
-* Pagination & Swagger/OpenAPI
-* Docker
-
-[🔗 View Project](https://github.com/hassan-aamer/Spring-Boot-E-Commerce-Project)
 
 ---
 
