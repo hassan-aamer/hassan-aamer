@@ -1,9 +1,9 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img width="100%" alt="Hassan Mohamed" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Backend+Engineer+%F0%9F%91%A8%EF%B8%8F%E2%80%8D%F0%9F%92%BB&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" alt="Hassan Mohamed" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Backend+Software+Engineer+%F0%9F%91%A8%EF%B8%8F%E2%80%8D%F0%9F%92%BB&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Java+Spring+Boot+%7C+PHP+Laravel+Backend+Engineer;RESTful+APIs+%7C+Microservices;Clean+Architecture+%7C+SOLID;Scalable+%7C+Secure+%7C+Maintainable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer+%7C+Java+%2F+Spring+Boot+%7C+PHP+%2F+Laravel;RESTful+APIs+%7C+Microservices;Clean+Architecture+%7C+SOLID;Scalable+%7C+Secure+%7C+Maintainable+Systems" />
 </p>
 
 <p align="center">
@@ -14,37 +14,47 @@
 
 Backend Software Engineer with **4+ years of production experience** building scalable backend systems using **Java / Spring Boot** and **PHP / Laravel**.
 
-Experienced in **RESTful APIs, Microservices, Multi-Tenant SaaS, Clean Architecture, SOLID, Design Patterns, Database Optimization, Redis, Docker, CI/CD, and AI integrations**.
+I specialize in **RESTful APIs, Microservices, Modular Monoliths, Multi-Tenant SaaS, Clean Architecture, SOLID principles, and database and performance optimization**.
 
-🎯 Focused on building **secure, maintainable, scalable, and high-performance backend systems**.
+My experience spans **e-commerce, IoT and logistics, healthcare/EMR, HR, booking, and SaaS platforms**, covering backend architecture, database design, API development, third-party integrations, and deployment.
+
+I have hands-on experience with **distributed systems, transactional workflows, concurrency control, idempotency, event-driven architecture, caching, asynchronous processing, CI/CD, Docker, Redis, RabbitMQ, Kafka, and Kubernetes**.
+
+🎯 **Focused on building secure, maintainable, scalable, and high-performance backend systems.**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
+**Languages:**  
 `Java` `PHP 8+` `SQL` `JavaScript`
 
-**Backend:**
-`Spring Boot` `Spring Data JPA` `Spring Security` `Spring Cloud` `Laravel` `Eloquent`
+**Java / Spring:**  
+`Java 21` `Spring Boot` `Spring Data JPA` `Spring Security` `Spring Cloud`
 
-**Architecture:**
-`Clean Architecture` `SOLID` `Design Patterns` `Microservices` `Event-Driven Architecture`
+**PHP / Laravel:**  
+`PHP 8+` `Laravel` `Eloquent`
 
-**Databases:**
+**Architecture:**  
+`Clean Architecture` `SOLID` `Design Patterns` `Microservices` `Modular Monoliths` `Event-Driven Architecture`
+
+**Databases & Caching:**  
 `MySQL` `PostgreSQL` `MongoDB` `Redis`
 
-**APIs & Messaging:**
-`REST` `GraphQL` `WebSocket` `Queues` `Pub/Sub`
+**APIs & Messaging:**  
+`REST` `GraphQL` `WebSocket` `RabbitMQ` `Kafka` `Queues` `Pub/Sub`
 
-**DevOps & Tools:**
-`Docker` `GitHub Actions` `AWS` `Linux` `Git` `Postman`
+**Security:**  
+`JWT` `Authentication & Authorization` `RBAC`
 
-**Testing:**
+**DevOps & Tools:**  
+`Docker` `Kubernetes` `GitHub Actions` `AWS` `Linux` `Git` `Postman`
+
+**Testing:**  
 `JUnit` `PHPUnit` `JMeter` `k6`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,postgresql,mongodb,redis,docker,githubactions,aws,linux,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,postgresql,mongodb,rabbitmq,kafka,redis,docker,kubernetes,githubactions,aws,linux,git,github,postman&perline=9" />
 </div>
 
 ---
@@ -72,7 +82,7 @@ Production-grade microservices system built with **Java 21, Spring Boot, Spring 
 * Microservices Architecture
 * SOLID & Clean Architecture
 * Saga, Strategy, Factory, State & Observer Patterns
-* Distributed concurrency control
+* Distributed Concurrency Control
 
 [🔗 View Project](https://github.com/hassan-aamer/BookFlex-Microservices)
 
