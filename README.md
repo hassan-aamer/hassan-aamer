@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Backend Software Engineer with **4+ years of production experience** building scalable backend systems using **Java / Spring Boot** and **PHP / Laravel**.
+Backend Software Engineer with **5 years of production experience** building scalable backend systems using **Java / Spring Boot** and **PHP / Laravel**.
 
 I specialize in **RESTful APIs, Microservices, Modular Monoliths, Multi-Tenant SaaS, Clean Architecture, SOLID principles, and database and performance optimization**.
 
