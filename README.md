@@ -3,7 +3,7 @@
 <img width="100%" alt="Hassan Mohamed" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Backend+Software+Engineer+%F0%9F%91%A8%EF%B8%8F%E2%80%8D%F0%9F%92%BB&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer+%7C+Java+%2F+Spring+Boot+%7C+PHP+%2F+Laravel;RESTful+APIs+%7C+Microservices;Clean+Architecture+%7C+SOLID;Scalable+%7C+Secure+%7C+Maintainable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=900&height=50&lines=Backend+Engineer+%7C+Java+%2F+Spring+Boot+%7C+PHP+%2F+Laravel;RESTful+APIs+%7C+Microservices;Clean+Architecture+%7C+SOLID;Scalable+%7C+Secure+%7C+Maintainable+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
